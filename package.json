@@ -13,8 +13,11 @@
   "license": "ISC",
   "dependencies": {
     "@vitejs/plugin-react": "^4.0.0",
+    "material-icons": "^1.13.5",
+    "materialize-css": "^1.0.0-rc.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
     "vite": "^4.3.3"
   }
 }

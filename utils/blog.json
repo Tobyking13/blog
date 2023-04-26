@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Weird Guitar Pedals",
+      "image": "https://producerhive.com/wp-content/uploads/2021/12/Depositphotos_475458656_L.jpg",
+      "description": "The golden rule of weird guitar pedals: you know you’ve scored the best weird pedal if you can’t explain what it does, but love it enough to buy another one. Or, alternatively, you are okay with finger warts from tweaking knobs. I’m talking about signal processing effects that need an indie film director to make the demo. Ones that may cost more than a dentist bill and are barely easier to learn than flying a plane. From dirty robot sounds to ambient music thrust and granular delay, brace yourself for GAS and an urge to make the weirdest sounds possible with your guitar. After a long hunt for weird guitar pedals, I have rounded up eight of my favorite stomps that excel at aberrant tones and expressive sounds. They can help you break out of a rut or get wrapped in hours of endless fun. ",
+      "link": "https://producerhive.com/buyer-guides/guitar-pedals/best-weird-guitar-pedals/"
+
+    },
+    {
+      "id": 2,
+      "name": "Horiseon",
+      "image": "https://github.com/Tobyking13/toby-king-challenge1-refactoring/blob/main/assets/images/screenshot-webpage.png?raw=true",
+      "description": "HTML refactoring & SEO optimisation",
+      "github": "https://github.com/Tobyking13/toby-king-challenge1-refactoring",
+      "link": "https://tobyking13.github.io/toby-king-challenge1-refactoring/"
+
+    },
+    {
+      "id": 3,
+      "name": "Age Calculator",
+      "image": "https://github.com/Tobyking13/Age-Calculator/blob/main/images/Screenshot.png?raw=true",
+      "description": "Age Calculator using JavaScript and Pico.css that tells you how long you have been alive to the millisecond",
+      "github": "https://github.com/Tobyking13/Age-Calculator",
+      "link": "https://tobyking13.github.io/Age-Calculator/"
+    },
+    {
+      "id": 4,
+      "name": "Team Profile Generator",
+      "image": "https://github.com/Tobyking13/Team-Profile-Generator/blob/main/assets/Screenshot.png?raw=true",
+      "description": "Application using JavaScript and node.js to allow the user to create an HTML document with cards of their software team",
+      "github": "https://github.com/Tobyking13/Team-Profile-Generator",
+      "link": "N/A"
+    }
+  ]
+  
