@@ -2,10 +2,13 @@ import Blogs from "../../components/Blogs";
 import Nav from "../../components/Nav";
 
 const Home = () => {
+
+  const authToken = false;
+
   return (
     <div>
       <header>
-        <Nav />
+        <Nav authToken={authToken}/>
       </header>
       <main>
         <p className="center-align">
